@@ -8,5 +8,7 @@ class Point:
 
 
 point1 = Point()
-point1.draw()
+point1.x  = 10
+point1.y = 20
 print(point1)
+point1.draw
