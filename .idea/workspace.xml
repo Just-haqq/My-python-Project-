@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77505d74-6bf9-42d3-a355-880930868873" name="Changes" comment="">
+    <list default="true" id="77505d74-6bf9-42d3-a355-880930868873" name="Changes" comment="I've added modules from some already written codes">
+      <change afterPath="$PROJECT_DIR$/Directories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exploring built in modules.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +44,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Classes.executor": "Run",
     "Python.Code.executor": "Run",
+    "Python.Directories.executor": "Run",
     "Python.Exceptions.executor": "Run",
     "Python.Modules.executor": "Run",
     "Python.app.executor": "Run",
     "Python.constructors2.executor": "Run",
+    "Python.dice.executor": "Run",
+    "Python.exploring built in modules.executor": "Run",
     "Python.ff.executor": "Run",
     "Python.ghk.executor": "Run",
     "Python.h.executor": "Run",
@@ -69,10 +75,32 @@
       <option name="presentableId" value="Default" />
       <updated>1758680293213</updated>
     </task>
+    <task id="LOCAL-00001" summary="I've added modules from some already written codes">
+      <option name="closed" value="true" />
+      <created>1760884479718</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760884479718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="I've added modules from some already written codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="I've added modules from some already written codes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
