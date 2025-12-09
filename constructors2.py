@@ -1,7 +1,6 @@
 class Person:
-    def __innit__(self, name):
+    def __init__(self, name):
         self.name = name
-
     def talk(self):
         print(f"Hi I am {self.name}")
 
