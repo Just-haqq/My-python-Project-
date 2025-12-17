@@ -256,6 +256,14 @@ def find_min(numbers):
             minimum = i
     return minimum
 
-nums = [1, 0, 2, 5, 10]
-result = find_min(nums)
-print(result)
+user_input = input('Enter the numbers separated by commas: ')
+try:
+    numbers = list(map(int, user_input.split(',')))
+except ValueError:
+    print('Invalid input')
+
+result = find_min(numbers)
+if None:
+    print('List cannot be blank')
+else:
+    print(f'Minimum number in list in the list is {result}')
