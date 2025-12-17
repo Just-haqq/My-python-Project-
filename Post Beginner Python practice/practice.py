@@ -250,9 +250,12 @@ else:
 def find_min(numbers):
     if not numbers:
         return None
-    min = numbers[0]
+    minimum = numbers[0]
     for i in numbers:
-        if i < min:
-            min = i
-    return min
-print(f'The minimum is {min}')
+        if i < minimum:
+            minimum = i
+    return minimum
+
+nums = [1, 0, 2, 5, 10]
+result = find_min(nums)
+print(result)
