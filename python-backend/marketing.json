@@ -1,0 +1,10 @@
+[
+    {
+        "type": "marketing",
+        "name": "Summer Sale Campaign",
+        "start_date": "2024-06-01",
+        "end_date": "2024-06-30",
+        "budget": 5000,
+        "channels": ["email", "social_media", "paid_ads"]  
+    }
+]
