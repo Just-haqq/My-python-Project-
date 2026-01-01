@@ -1,0 +1,12 @@
+[   {   
+    "id" : 1,
+    "name" : "Haqq",
+    "Grade": "A"
+    },
+    {
+        "id" : 2,
+        "Name" : "Yusif",
+        "Grade" : "A"
+    }
+
+]
